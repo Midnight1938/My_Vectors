@@ -1,0 +1,22 @@
+#+TITLE: Learning Inkscape and Creating Vectors
+
+* Introduction
+Welcome to the repository documenting my journey of learning Inkscape and creating vectors! In this repository, you will find a collection of resources, tutorials, and examples that I have gathered and created throughout my learning process. Whether you are a beginner looking to get started with Inkscape or an experienced designer seeking inspiration, I hope you find this repository helpful and informative.
+
+* Installing Inkscape on openSUSE
+
+To install Inkscape on openSUSE, you can use the package manager Zypper or YaST. Open a terminal and run the following command:
+#+begin_src bash
+  sudo zypper install -y inkscape
+#+end_src
+
+This will install Inkscape on your openSUSE system. If you prefer using YaST, you can search for Inkscape in the software management interface and install it from there.
+
+* Basic Concepts
+Before diving into creating vectors with Inkscape, it's important to familiarize yourself with some basic concepts of vector graphics. Understand the difference between vector and raster images, learn about paths, shapes, layers, and various tools available in Inkscape. You can refer to the official Inkscape documentation or explore external resources for a comprehensive introduction.
+
+* Resources
++ [[https:youtube.com/c/LogosByNick][Logos By Nick]]
++ [[https:youtube.com/playlist?list=PLGKIkAXk1OeStBqK7acs7MUhCIaM3MtzK][Tuts by kai]]
++ [[https:youtube.com/@DaviesMediaDesign][Davies Media]]
+Feel free to explore these channels and subscribe to the ones that resonate with your learning style and interests.
